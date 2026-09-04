@@ -4,7 +4,7 @@ thumbnail: /img/Bio_1.JPG
 date: 2023-03-02T10:17:05.133Z
 title: Bio
 description: About the Artist
-number: 1
+number: 4
 pagetype:
   - main
 featuredimage: /img/Bio_1.JPG
