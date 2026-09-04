@@ -20,9 +20,13 @@ Digital prints. 06.2026
 Open Series, with A1 reprints on demand.
 
 ![Shadows_1](/img/Shadows_1.jpg)
+
 ![Shadows_2](/img/Shadows_2.jpg)
+
 ![Shadows_3](/img/Shadows_3.jpg)
+
 ![Shadows_4](/img/Shadows_4.jpg)
+
 ![Shadows_5](/img/Shadows_5.jpg)
 
 ### Winters End
