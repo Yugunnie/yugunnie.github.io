@@ -23,7 +23,7 @@ I work in a variety of mediums. My background layes in furniture design and grap
 
 Every piece is crafted in my home studio. I use traditonal method of block prining fabrics with elements carved form linoleum. The final produtcs are made with water-based fabric ink. In the studio I aim to not use heavy chemicals to desolve inks.
 
-As for the process: It all starts on the walks with as massive gallery of photos taken of flowers. I has been a habit for years. Something about the innocent act of capturing a plant growing free has always put a smile on my face. 
+As for the process: It all starts on the walks with a massive gallery of photos taken of flowers. I has been a habit for years. Something about the innocent act of capturing a plant growing free has always put a smile on my face. 
 
 ![Flower_2020](/img/Flower_2020.jpg)
 
