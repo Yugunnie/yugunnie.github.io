@@ -7,9 +7,9 @@ description: About the Artist
 number: 4
 pagetype:
   - main
-featuredimage: /img/Bio_1.JPG
+
 ---
-<!-- ![Artist at work](/img/Bio_1.JPG) -->
+
 
 ## The artist - Alicja Guz
 
