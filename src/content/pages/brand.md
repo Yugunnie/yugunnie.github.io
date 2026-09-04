@@ -12,7 +12,6 @@ featuredimage: /img/A(...).jpg
 ## Why A(...)
 
 A(studio)
-A(idea)
 A(form)
 A(print)
 A(?)
