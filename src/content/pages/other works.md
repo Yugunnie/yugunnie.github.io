@@ -30,7 +30,7 @@ Open Series, with A1 reprints on demand.
 Dry point print with water colors. 11.2025 
 Unique piece.  
 
-![winters_end](/img/winters_end.jpg)
+![winters_end](/img/winters_end.JPG)
 
 #### Idols Smile
 
