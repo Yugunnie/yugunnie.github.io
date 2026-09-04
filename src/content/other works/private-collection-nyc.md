@@ -1,5 +1,5 @@
 ---
-templateKey: exhibitions-sub-page
+templateKey: other-works-sub-page
 thumbnail: /img/clay-images-8.jpg
 date: 2023-01-07T15:04:10.000Z
 title: Private Collection, NYC

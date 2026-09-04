@@ -1,5 +1,5 @@
 ---
-templateKey: exhibitions-sub-page
+templateKey: other-works-sub-page
 thumbnail: /img/clay-image-1.jpg
 date: 2023-01-08T15:04:10.000Z
 title: London Gallery Sale
