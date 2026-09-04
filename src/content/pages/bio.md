@@ -1,15 +1,15 @@
 ---
 templateKey: bio-page
-thumbnail: /img/2.jpg
+thumbnail: /img/Bio_1.JPG
 date: 2023-03-02T10:17:05.133Z
 title: Bio
 description: About the Artist
 number: 1
 pagetype:
   - main
-featuredimage: /img/2.jpg
+featuredimage: /img/Bio_1.JPG
 ---
-<!-- ![Artist at work](/img/2.jpg) -->
+<!-- ![Artist at work](/img/Bio_1.JPG) -->
 
 ## The
 
@@ -17,7 +17,7 @@ I am a ceramic artist based in the Pacific Northwest, where the rugged coastline
 
 I work primarily with stoneware and porcelain, utilizing both wheel-throwing and hand-building techniques. My philosophy is rooted in wabi-sabi—finding beauty in the imperfect, the impermanent, and the incomplete.
 
-![Studio shelves](/img/8.jpg)
+![Studio shelves](/img/workflow_1.jpg)
 
 ### Process & Materials
 
