@@ -7,5 +7,5 @@ description: Reach out easily and explore new opportunities. Your journey starts
 number: 5
 pagetype:
   - main
-featuredimage:
+
 ---
