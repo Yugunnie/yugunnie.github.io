@@ -17,7 +17,7 @@ I am a ceramic artist based in the Pacific Northwest, where the rugged coastline
 
 I work primarily with stoneware and porcelain, utilizing both wheel-throwing and hand-building techniques. My philosophy is rooted in wabi-sabi—finding beauty in the imperfect, the impermanent, and the incomplete.
 
-![Studio shelves](/img/workflow_1.jpg)
+![Studio shelves](/img/Workflow_1.jpg)
 
 ### Process & Materials
 
