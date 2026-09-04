@@ -1,5 +1,5 @@
 ---
-templateKey: brand
+templateKey: elements
 title: A(...) Studio
 image: /img/A(...).jpg
 description: The idea of infinite possibilites
