@@ -7,6 +7,9 @@ description: A nod to the beauty of the ordinary
 ---
 ## Common Beauty
 
-This collection focuses on the tactile experience of ceramics. Using heavy grog clay bodies and shino glazes, the surface becomes a landscape of its own.
+This collection focuses on the flowers commonly found around roads in Poland. Mistaken sometimes as cornflowers. This series contains 4 flowers, 1 flower bud, 2 stems.  
 
-The firing process was done in a wood kiln, introducing ash deposits that create unpredictable and beautiful variations in color and texture.
+
+
+
+
