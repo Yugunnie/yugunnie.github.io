@@ -1,6 +1,6 @@
 ---
 templateKey: bio-page
-thumbnail: /img/Bio_1.JPG
+thumbnail: /img/Bio_2.jpg
 date: 2023-03-02T10:17:05.133Z
 title: Bio
 description: About the Artist
