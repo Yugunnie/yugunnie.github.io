@@ -9,3 +9,10 @@ pagetype:
   - main
 
 ---
+## E-mail Us
+
+alicja@athreedots.com
+
+### Instagram
+
+@athreedots
